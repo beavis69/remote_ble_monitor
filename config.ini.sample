@@ -1,0 +1,15 @@
+[HOME_ASSISTANT]
+ha_ip = 192.168.0.54
+ha_port = 8123
+ha_token = "my precious HA long-lived access token"
+
+[HARDWARE]
+hci_dev = 0
+gateway_id = pi-zero-2w
+
+[LOGS]
+log_interval = 30
+
+[DEBUG]
+debug_local = True
+target_debug_mac = AAAAAAAAAAAA
